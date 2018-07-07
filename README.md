@@ -1,5 +1,5 @@
 # Thai-Sans-New
-Thai Sans New type family is an improve vesion of Thai Sans Neue type family that was published in 2013. There are other weights that aren't published yet: UltraLight, Light, SemiBold, Bold, UltraBold, and Black.
+Thai Sans New type family is an improve vesion of Thai Sans Neue type family that was published in 2013. There are other weights that aren't published yet (UltraLight, Light, SemiBold, Bold, UltraBold, and Black)
 
 ## Grotesque font family
 Thai Sans New is a grotesque font family for display and publication.  
