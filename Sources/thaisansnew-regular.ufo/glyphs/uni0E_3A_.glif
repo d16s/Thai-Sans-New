@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0E3A" format="1">
+  <advance width="0"/>
+  <unicode hex="0E3A"/>
+    <anchor name="_b.uni0E38" x="-37" y="-75"/>
+    <anchor name="_b.uni0E38_2" x="-97" y="-75"/>
+  <outline>
+    <contour>
+      <point x="-35" y="-133" type="line" name="hr00"/>
+      <point x="-35" y="-73" type="line"/>
+      <point x="-95" y="-73" type="line"/>
+      <point x="-95" y="-133" type="line"/>
+    </contour>
+    <contour>
+      <point x="-37" y="-75" type="move" name="_b.uni0E38"/>
+    </contour>
+    <contour>
+      <point x="-97" y="-75" type="move" name="_b.uni0E38_2"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="-133" width="60" />
+      <vstem pos="-95" width="60" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>

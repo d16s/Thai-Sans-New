@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<glyph name="uni0E37" format="1">
+  <advance width="0"/>
+  <unicode hex="0E37"/>
+    <anchor name="_t.uni0E34" x="-59" y="505"/>
+    <anchor name="t.uni0E4B" x="-59" y="660"/>
+  <outline>
+    <contour>
+      <point x="-57" y="505" type="line" name="hr00"/>
+      <point x="-57" y="615" type="line"/>
+      <point x="-117" y="615" type="line"/>
+      <point x="-117" y="555" type="line"/>
+      <point x="-147" y="555" type="line"/>
+      <point x="-147" y="615" type="line"/>
+      <point x="-197" y="615" type="line"/>
+      <point x="-197" y="555" type="line"/>
+      <point x="-317" y="555" type="line"/>
+      <point x="-337" y="505" type="line"/>
+    </contour>
+    <contour>
+      <point x="-59" y="505" type="move" name="_t.uni0E34"/>
+    </contour>
+    <contour>
+      <point x="-59" y="660" type="move" name="t.uni0E4B"/>
+    </contour>
+  </outline>
+  <lib>
+  <dict>
+  <key>com.adobe.type.autohint</key>
+  <data>
+  <hintSetList>
+    <hintset pointTag="hr00">
+      <hstem pos="505" width="50" />
+      <hstem pos="505" width="110" />
+      <vstem pos="-197" width="50" />
+      <vstem pos="-117" width="60" />
+    </hintset>
+  </hintSetList>
+  </data>
+  </dict>
+  </lib>
+</glyph>
