@@ -6,7 +6,7 @@ Thai Sans New is a grotesque font family for display and publication.
 
 ## License
 Thai Sans New is licensed under the SIL Open Font License v1.1 (<http://scripts.sil.org/OFL>)  
-To view the copyright and specific terms and conditions please refer to [License](https://github.com/d16s/Thai-Sans-New/blob/master/LICENSE)
+To view the copyright and specific terms and conditions please refer to [LICENSE](https://github.com/d16s/Thai-Sans-New/blob/master/LICENSE)
 
 ## Formats
 You can download the font files(.otf, .ttf) and its source file(.ufo)
