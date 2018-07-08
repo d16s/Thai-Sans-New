@@ -1,5 +1,6 @@
 # Thai-Sans-New
-Thai Sans New type family is an improve vesion of Thai Sans Neue type family that was published in 2013. There are other weights that aren't published yet (UltraLight, Light, SemiBold, Bold, UltraBold, and Black)
+Thai Sans New type family is an improve vesion of [Thai Sans Neue type family](http://www.f0nt.com/release/thaisans-neue-1-0/) that was published in 2013. There are other weights that aren't published yet (UltraLight, Light, SemiBold, Bold, UltraBold, and Black)
+
 
 ## Grotesque font family
 Thai Sans New is a grotesque font family for display and publication.  
@@ -9,6 +10,7 @@ Thai Sans New is licensed under the SIL Open Font License v1.1 (<http://scripts.
 To view the copyright and specific terms and conditions please refer to [LICENSE](https://github.com/d16s/Thai-Sans-New/blob/master/LICENSE)
 
 ## Formats
-You can download the font files(.otf, .ttf) and its source file(.ufo)
+You can download the font files(.otf, .ttf, .eot, .woff, .woff2) and its source file(.ufo)
 
-##
+
+
