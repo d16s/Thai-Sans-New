@@ -7,8 +7,8 @@
       <point x="7" y="490" type="line" name="hr00"/>
       <point x="7" y="440" type="line"/>
       <point x="147" y="440" type="line"/>
-      <point x="147" y="0" type="line"/>
-      <point x="207" y="0" type="line"/>
+      <point x="147" y="-0" type="line"/>
+      <point x="207" y="-0" type="line"/>
       <point x="207" y="440" type="line"/>
       <point x="342" y="440" type="line"/>
       <point x="342" y="490" type="line"/>

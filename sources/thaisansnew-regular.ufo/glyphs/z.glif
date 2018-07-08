@@ -8,8 +8,8 @@
       <point x="56" y="315" type="line"/>
       <point x="242" y="315" type="line"/>
       <point x="37" y="16" type="line"/>
-      <point x="37" y="0" type="line"/>
-      <point x="322" y="0" type="line"/>
+      <point x="37" y="-0" type="line"/>
+      <point x="322" y="-0" type="line"/>
       <point x="322" y="45" type="line"/>
       <point x="122" y="45" type="line"/>
       <point x="325" y="341" type="line"/>

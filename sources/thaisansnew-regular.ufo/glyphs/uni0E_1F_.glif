@@ -12,8 +12,8 @@
   <outline>
     <contour>
       <point x="261" y="324" type="line" name="hr00"/>
-      <point x="356" y="0" type="line"/>
-      <point x="393" y="0" type="line"/>
+      <point x="356" y="-0" type="line"/>
+      <point x="393" y="-0" type="line"/>
       <point x="555" y="570" type="line"/>
       <point x="498" y="570" type="line"/>
       <point x="370" y="123" type="line"/>
@@ -22,8 +22,8 @@
       <point x="151" y="123" type="line"/>
       <point x="64" y="430" type="line"/>
       <point x="7" y="430" type="line"/>
-      <point x="130" y="0" type="line"/>
-      <point x="167" y="0" type="line"/>
+      <point x="130" y="-0" type="line"/>
+      <point x="167" y="-0" type="line"/>
     </contour>
     <contour>
       <point x="422" y="505" type="move" name="t.uni0E34"/>

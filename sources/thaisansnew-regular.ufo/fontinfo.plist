@@ -18,21 +18,11 @@
   <string>2013/01/05 21:36:23</string>
   <key>openTypeHeadFlags</key>
   <array>
-    <integer>0</integer>
-    <integer>1</integer>
   </array>
-  <key>openTypeHeadLowestRecPPEM</key>
-  <integer>3</integer>
   <key>note</key>
   <string></string>
   <key>openTypeHheaAscender</key>
   <integer>903</integer>
-  <key>openTypeHheaCaretOffset</key>
-  <integer>0</integer>
-  <key>openTypeHheaCaretSlopeRise</key>
-  <integer>1</integer>
-  <key>openTypeHheaCaretSlopeRun</key>
-  <integer>0</integer>
   <key>openTypeHheaDescender</key>
   <integer>-397</integer>
   <key>openTypeHheaLineGap</key>
@@ -42,7 +32,7 @@
   <key>openTypeNameDesignerURL</key>
   <string>mailto:d14ngs@gmail.com</string>
   <key>openTypeNameLicense</key>
-  <string>Copyright (c) 2018, Dhanbisishthabongs Kiauklom (d14ngs@gmail.com), with Reserved Font Name &quot;Thai Sans New&quot;
+  <string>Copyright (c) 2018, Dhanbisishthabongs Kiauklom (d14ngs@gmail.com).
 
 This Font Software is licensed under the SIL Open Font License, Version 1.1.
 This license is copied below, and is also available with a FAQ at:
@@ -148,8 +138,6 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <string>Thai Sans New</string>
   <key>openTypeNamePreferredSubfamilyName</key>
   <string>Regular</string>
-  <key>openTypeNameUniqueID</key>
-  <string>DhanbisishthabongsKliauklom: ThaiSans Neue Regular: </string>
   <key>openTypeNameVersion</key>
   <string>Version 1.5a</string>
   <key>openTypeOS2CodePageRanges</key>
@@ -157,26 +145,9 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
     <integer>0</integer>
     <integer>16</integer>
   </array>
-  <key>openTypeOS2FamilyClass</key>
-  <array>
-    <integer>0</integer>
-    <integer>0</integer>
-  </array>
-  <key>openTypeOS2Panose</key>
-  <array>
-    <integer>2</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-    <integer>0</integer>
-  </array>
   <key>openTypeOS2Selection</key>
   <array>
+    <integer>7</integer>
   </array>
   <key>openTypeOS2StrikeoutPosition</key>
   <integer>226</integer>
@@ -231,7 +202,7 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <key>postscriptBlueFuzz</key>
   <integer>1</integer>
   <key>postscriptBlueScale</key>
-  <real>0.03963</real>
+  <real>0.0396</real>
   <key>postscriptBlueShift</key>
   <integer>7</integer>
   <key>postscriptBlueValues</key>
@@ -291,7 +262,5 @@ OTHER DEALINGS IN THE FONT SOFTWARE.
   <integer>0</integer>
   <key>xHeight</key>
   <integer>360</integer>
-  <key>macintoshFONDName</key>
-  <string>ThaiSans Neue</string>
 </dict>
 </plist>
